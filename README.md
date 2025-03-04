@@ -12,7 +12,7 @@
 - [EX01-06 簡易購物車](https://colab.research.google.com/drive/11R1F7XLTi9F11gHqcJYdhjwPoK8wllE0?usp=sharing)
 - [EX01-07 美食資訊查詢]()
 
-  ## *02 Web Crawler*
+## *02 Web Crawler*
 - [EX02-01 My Chatbot]()
 - [EX02-02 高雄紅橘線捷運車站位置查詢]()
 - [EX02-03 Yahoo 新聞儲存 Google 試算表]()
