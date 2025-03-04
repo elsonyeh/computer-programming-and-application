@@ -10,7 +10,7 @@
 - [EX01-04 終極密碼](https://colab.research.google.com/drive/1ngMpRiGSAYIWd7xBgl9lwhYQaKozB4by?usp=sharing)
 - [EX01-05 Caesar Cipher: Encode and decode](https://colab.research.google.com/drive/1Zq42NaxFj8Gk_u21ZtIIhYNIQKDBYxD-?usp=sharing)
 - [EX01-06 簡易購物車](https://colab.research.google.com/drive/11R1F7XLTi9F11gHqcJYdhjwPoK8wllE0?usp=sharing)
-- [EX01-07 美食資訊查詢]()
+- [EX01-07 美食資訊查詢](https://colab.research.google.com/drive/1QV_5Sno1vejsJ6U0t4gUYd-78VQlx3rq#scrollTo=jdUrqRLZ5ioj)
 
 ## *02 Web Crawler*
 - [EX02-01 My Chatbot]()
