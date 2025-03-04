@@ -13,7 +13,7 @@
 - [EX01-07 美食資訊查詢](https://colab.research.google.com/drive/1QV_5Sno1vejsJ6U0t4gUYd-78VQlx3rq#scrollTo=jdUrqRLZ5ioj)
 
 ## *02 Web Crawler*
-- [EX02-01 My Chatbot]()
+- [EX02-01 My Chatbot](https://colab.research.google.com/drive/16qJS9dmO6zK7fbZMUgIfytVdahE8s35e#scrollTo=4mHWDrSJSJ9I)
 - [EX02-02 高雄紅橘線捷運車站位置查詢]()
 - [EX02-03 Yahoo 新聞儲存 Google 試算表]()
 - [EX02-04 Download Pokemon Images]()
