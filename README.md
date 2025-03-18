@@ -14,7 +14,7 @@
 
 ## *02 Web Crawler*
 - [EX02-01 My Chatbot](https://colab.research.google.com/drive/16qJS9dmO6zK7fbZMUgIfytVdahE8s35e#scrollTo=4mHWDrSJSJ9I)
-- [EX02-02 高雄紅橘線捷運車站位置查詢]()
+- [EX02-02 高雄紅橘線捷運車站位置查詢](https://colab.research.google.com/drive/11hPN3RmhhobIGjejmUqTQQTlk5jpmFYY?usp=sharing)
 - [EX02-03 Yahoo 新聞儲存 Google 試算表]()
 - [EX02-04 Download Pokemon Images]()
 - [EX02-05 PTT Gossiping]()
